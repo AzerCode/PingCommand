@@ -23,4 +23,4 @@ Go back to your Visual Studio code and upload the file (index.js file) you downl
 Run `node .` in your terminal/command prompt to turn your bot online.
 
 # Honourable mentions
-If you're lazy, just downlaod all the files.
+If you're lazy or don't understand, just downlaod all the files.
